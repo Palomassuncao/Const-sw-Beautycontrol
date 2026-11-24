@@ -34,6 +34,7 @@ O BeautyControl é Sistema web de gestão para salão de beleza, com foco em age
 │ ├── Controllers/ # Lógicas de controle de fluxo e rotas 
 │ ├── Models/ # Regras de negócio e comunicação com MySQL 
 │ └── Views/ # Interfaces web (HTML/CSS/JS) 
-├── config/ # Arquivos de configuração e conexão com Banco de Dados 
+├── config/ # Arquivos de configuração e conexão com Banco de Dados
+├── database/ #Arquivos mysql
 ├── public/ # Ponto de entrada (index.php) e ativos estáticos (CSS, JS, Imagens) 
 └── README.md # Documentação principal do repositório
